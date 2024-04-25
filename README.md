@@ -1,4 +1,4 @@
-# Analytics-Fang-Dashbord
+# Analysis-Fang-Dashbord
 interactive-fang-stock-analysis-excel
 
 Discription
