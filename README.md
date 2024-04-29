@@ -24,5 +24,5 @@ Instructions:
 Download the Excel file containing the dashboard.
 Open the file in Microsoft Excel.
 Navigate through the main dashboard and individual stock sheets using the buttons.
-Use the slicers (if available) to filter data by year.
+Use the slicers to filter data by year.
 Explore the interactive charts for further insights.
