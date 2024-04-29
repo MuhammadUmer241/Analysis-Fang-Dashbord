@@ -5,6 +5,8 @@ Discription
 This Excel dashboard provides insightful visualizations and data analysis of the FANG stocks (Facebook, Apple, Amazon, Netflix, Google A & C) from a given period to 2023. It offers a comprehensive overview of their performance and facilitates deeper exploration of individual stocks.
 ![image](https://github.com/MuhammadUmer241/Analysis-Fang-Dashbord/assets/156159700/b89ac919-7ba6-4898-a053-01d2c040e0b5)
 
+![image](https://github.com/MuhammadUmer241/Analysis-Fang-Dashbord/assets/156159700/e07d4e6f-d46b-496a-906b-9441a6118787)
+
 
 Key Features:
 
